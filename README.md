@@ -3,3 +3,4 @@
 
 ## PHP
 - SOLID (Gradual development of the payment system)
+- OOD
